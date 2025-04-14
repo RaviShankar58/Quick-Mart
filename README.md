@@ -1,8 +1,7 @@
 
-
 ---
 
-### 📄 `README.md`
+## 📄 `README.md`
 
 ```markdown
 # 🛒 Quick Mart - E-commerce App
@@ -50,7 +49,7 @@ Quick Mart is a full-featured **e-commerce application** designed to provide use
 
 ---
 
-## 📥 Clone the Repository
+### 📥 Clone the Repository
 
 ```bash
 git clone https://github.com/RaviShankar58/Quick-Mart.git
@@ -59,18 +58,16 @@ cd quick-mart
 
 ---
 
-## 📦 Install Dependencies
+### 📦 Install Dependencies
 
-For both frontend and backend, install dependencies:
-
-### Frontend
+#### Frontend
 
 ```bash
 cd frontend
 npm install
 ```
 
-### Backend
+#### Backend
 
 ```bash
 cd backend
@@ -79,9 +76,9 @@ npm install
 
 ---
 
-## 🚀 Running the Application
+### 🚀 Running the Application
 
-You can run **both backend and frontend concurrently** using:
+Run both backend and frontend concurrently:
 
 ```bash
 npm run dev
