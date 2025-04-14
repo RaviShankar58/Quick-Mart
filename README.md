@@ -6,8 +6,10 @@
 ```markdown
 # 🛒 Quick Mart - E-commerce App
 
-Quick Mart is a full-featured **e-commerce application** designed to provide users with an easy way to browse and purchase products online.
-The application allows users to view product listings, search for products, add them to their cart, and complete the checkout process.
+Quick Mart is a full-featured **e-commerce application** designed to provide users
+with an easy way to browse and purchase products online.
+The application allows users to view product listings,
+search for products, add them to their cart, and complete the checkout process.
 
 ---
 
